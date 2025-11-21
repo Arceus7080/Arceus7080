@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Baivabb Das<br>🚀 Computer Science Engineer | Developer | Problem Solver<br><br>I’m a Computer Science Engineering student at VIT-AP, passionate about building real-world solutions across Web Development, Android Apps, Machine Learning, Deep Learning, and IoT Systems.<br><br>I love working on projects that combine clean engineering, real-time data, and smart automation. I’ve built systems ranging from web apps like CropCoin, backend prototypes, Raspberry Pi–based IoT monitoring systems, and Android apps. I also enjoy solving algorithmic problems—185+ questions on LeetCode and counting!
 📫 Connect With Me
 I love working on new ideas, debugging tricky problems, and helping others.
